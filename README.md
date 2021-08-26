@@ -1,6 +1,7 @@
 # join_me
 
-A new Flutter project.
+҉҉҉The app allow it users to order ride and share with
+their friends and family for hooking҉҉҉
 
 ## Getting Started
 
